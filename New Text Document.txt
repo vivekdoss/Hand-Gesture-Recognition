@@ -1,0 +1,5 @@
+This is the first file added for testing purpose 
+
+#!/bin/bash
+echo "hello welcome to my first repository"
+
